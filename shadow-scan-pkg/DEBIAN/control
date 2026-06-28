@@ -1,0 +1,7 @@
+Package: shadow-scan
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: goated <goated@caca.local>
+Description: Outil d'audit de sécurité ultra-rapide en Rust pour détecter les fuites de secrets (Regex & Entropie de Shannon).
